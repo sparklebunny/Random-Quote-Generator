@@ -1,0 +1,96 @@
+body {
+	margin: auto, 1rem;
+}
+
+.quote-box {
+	position: relative;
+ 	margin: 4rem auto 1rem auto;
+	max-width: 50rem;
+	min-height: 21rem;
+	height: auto;
+	background-color: #fff;
+	border-radius: 6px;
+	box-shadow: 10px 10px 5px #888888;
+}
+
+#quote-text {
+	position: relative;
+	top: 2rem;
+	text-align: center;
+	margin: 2rem;
+	font-weight: bold;
+	font-size: 2rem;
+}
+
+#quote-cite:before {
+	content: "\2014";
+}
+
+#quote-cite {
+	float: right;
+	margin-right: 2rem;
+	margin-bottom: 1rem;
+	padding: 1rem;
+	font-weight: bold;
+}
+
+.twitter {
+	float: left;
+	position: absolute;
+	bottom: 1rem;
+	left: 2rem;
+}
+
+.twitter-share-button {
+	background-color: #fff;
+}
+
+i.fa.fa-twitter-square.fa-2x {
+	background-color: #fff;
+}
+
+.new-quote-btn {
+	float: right;
+	position: absolute;
+	bottom: 1rem;
+	right: 1rem;
+	border-radius: 4px;
+	margin-right: 1rem;
+	color: #fff;
+	font-weight: 500;
+}
+
+.twitter:hover,
+.new-quote-btn:hover {
+	opacity: .8;
+}
+
+.attr {
+	text-align: center;
+	margin: 0 auto;
+	padding-top: 2rem;
+	font-style: italic;
+	font-size: .8rem;
+	font-weight: 600;
+	color: #fff;
+}
+
+@media (max-width: 600px) {
+	.quote-box {
+		min-height: 28rem;
+		margin: 2rem;
+	}
+
+	.twitter {
+		margin-right: 0;
+		bottom: .25rem;
+		right: 0;
+	}
+
+	.new-quote-btn {
+		margin-left: 0;
+		bottom: .25rem;
+		right: 0;
+	}
+
+}

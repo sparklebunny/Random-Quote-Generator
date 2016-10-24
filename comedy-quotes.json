@@ -1,0 +1,208 @@
+//random comedian quotes API
+
+{ "data":[
+	{
+		"quote": "The early bird gets the worm but the second mouse gets the cheese.",
+		"author": "Steven Wright"
+	}, 
+	{
+		"quote": "If everything seems to be going well you have obviously overlooked something.",
+		"author": "Steven Wright"
+	}, 
+	{
+		"quote": "Support bacteria - they're the only culture some people have.",
+		"author": "Steven Wright"
+	}, 
+	{
+		"quote": "Hard work pays off in the future. Laziness pays off now.",
+		"author": "Steven Wright"
+	}, 
+	{
+		"quote": "Who is General Failure and why is he reading my hard disk?",
+		"author": "Steven Wright"
+	}, 
+	{
+		"quote": "You never really learn to swear until you learn to drive.",
+		"author": "Steven Wright"
+	}, 
+	{
+		"quote": "The problem with the gene pool is that there is no lifeguard.",
+		"author": "Steven Wright"
+	}, 
+	{
+		"quote": "Cross country skiing is great if you live in a small country.",
+		"author": "Steven Wright"
+	}, 
+	{
+		"quote": "If you were going to shoot a mime, would you use a silencer?",
+		"author": "Steven Wright"
+	}, 
+	{
+		"quote": "I used to play sports. Then I realized you can buy trophies. Now I am good at everything.",
+		"author": "Demetri Martin"
+	}, 
+	{
+		"quote": "I think it's interesting that 'cologne' rhymes with 'alone'.",
+		"author": "Demetri Martin"
+	}, 
+	{
+		"quote": "I wonder what the word for dots looks like in Braille.",
+		"author": "Demetri Martin"
+	}, 
+	{
+		"quote": "Employee of the month is a good example of how somebody can be both a winner and a loser at the same time.",
+		"author": "Demetri Martin"
+	}, 
+	{
+		"quote": "I like when good things happen to me, but I wait two weeks to tell anyone because I like to use the word 'fortnight.'",
+		"author": "Demetri Martin"
+	}, 
+	{
+		"quote": "I wanna make a jigsaw puzzle that's 40,000 pieces. And when you finish it, it says 'go outside.'",
+		"author": "Demetri Martin"
+	}, 
+	{
+		"quote": "It's very easy to turn a toy into an adult toy: Location, location, location.",
+		"author": "Demetri Martin"
+	}, 
+	{
+		"quote": "Whenever I'm on my computer, I don't type 'lol'. I type 'lqtm': 'laugh quietly to myself'. It's more honest.",
+		"author": "Demetri Martin"
+	}, 
+	{
+		"quote": "If I ever saw an amputee being hanged, I would just yell out letters.",
+		"author": "Demetri Martin"
+	}, 
+	{
+		"quote": "I went into a clothing store, and the lady asked me what size I was. I said, 'Actual'. I'm not to scale.'",
+		"author": "Demetri Martin"
+	}, 
+	{
+		"quote": "Whenever I investigate a smell, I find that the answer is always bad. It's never: 'What is that? *sniff* muffins!'",
+		"author": "Demetri Martin"
+	}, 
+	{
+		"quote": "I've never really thought of myself as depressed so much as I am paralyzed by hope.",
+		"author": "Maria Bamford"
+	}, 
+	{
+		"quote": "I'm not technically rich, but I do have a lot of sh*t that I don't need, that I refuse to share with others.",
+		"author": "Maria Bamford"
+	}, 
+	{
+		"quote": "It's like Canada, but without the metric system.",
+		"author": "Maria Bamford"
+	}, 
+	{
+		"quote": "A waffle is like a pancake with a syrup trap.",
+		"author": "Mitch Hedberg"
+	}, 
+	{
+		"quote": "I don't have a girlfriend. But I do know a woman who'd be mad at me for saying that.",
+		"author": "Mitch Hedberg"
+	}, 
+	{
+		"quote": "I once saw a forklift lift a crate of forks. And it was way too literal for me.",
+		"author": "Mitch Hedberg"
+	}, 
+	{
+		"quote": "I would imagine that if you could understand Morse code, a tap dancer would drive you crazy.",
+		"author": "Mitch Hedberg"
+	}, 
+	{
+		"quote": "I'm against picketing, but I don't know how to show it.",
+		"author": "Mitch Hedberg"
+	}, 
+	{
+		"quote": "I tried to throw a yo-yo away. It was impossible.",
+		"author": "Mitch Hedberg"
+	}, 
+	{
+		"quote": "A sleeping bag is a tortilla for a human.",
+		"author": "Mitch Hedberg"
+	}, 
+	{
+		"quote": "I would like to go fishing and catch a fishstick. That would be convenient.",
+		"author": "Mitch Hedberg"
+	}, 
+	{
+		"quote": "Don't sweat the petty things and don't pet the sweaty things.",
+		"author": "George Carlin"
+	}, 
+	{
+		"quote": "Inside every cynical person, there is a disappointed idealist.",
+		"author": "George Carlin"
+	}, 
+	{
+		"quote": "Just cause you got the monkey off your back doesn't mean the circus has left town.",
+		"author": "George Carlin"
+	}, 
+	{
+		"quote": "You know the good part about all those executions in Texas? Fewer Texans.",
+		"author": "George Carlin"
+	}, 
+	{
+		"quote": "In America, anyone can become president. That’s the problem.",
+		"author": "George Carlin"
+	}, 
+	{
+		"quote": "When cheese gets it's picture taken, what does it say?",
+		"author": "George Carlin"
+	}, 
+	{
+		"quote": "Is a vegetarian permitted to eat animal crackers?",
+		"author": "George Carlin"
+	}, 
+	{
+		"quote": "Why do they put Braille on the drive-through bank machines?",
+		"author": "George Carlin"
+	}, 
+	{
+		"quote": "One nice thing about egotists: they don’t talk about other people.",
+		"author": "George Carlin"
+	}, 
+	{
+		"quote": "The road to success is always under construction.",
+		"author": "Lily Tomlin"
+	}, 
+	{
+		"quote": "Procrastination isn't the problem, it's the solution. So procrastinate now, don't put it off.",
+		"author": "Ellen DeGeneres"
+	}, 
+	{
+		"quote": "Just go up to somebody on the street and say 'You're it!' and just run away.",
+		"author": "Ellen DeGeneres"
+	}, 
+	{
+		"quote": "I feel like I have a hangover, without all the happy memories and mystery bruises.",
+		"author": "Ellen DeGeneres"
+	}, 
+	{
+		"quote": "Having a baby is like a DUI from the universe.",
+		"author": "Natasha Leggero"
+	}, 
+	{
+		"quote": "The more developed your abs, the less time you’ve spent reading.",
+		"author": "Natasha Leggero"
+	}, 
+	{
+		"quote": "I like to crack the jokes now and again, but it's only because I struggle with math.",
+		"author": "Tina Fey"
+	}, 
+	{
+		"quote": "If you were to send a werewolf to the moon, would he be a werewolf permanently?",
+		"author": "Kristen Schaal"
+	}, 
+	{
+		"quote": "Turkeys are peacocks that have really let themselves go.",
+		"author": "Kristen Schaal"
+	}, 
+	{
+		"quote": "I used to carry a rabbit's foot for luck. Then it was a monkey's paw. Now it's a camel's toe.",
+		"author": "Kristen Schaal"
+	}]
+}
+
+
+
+
